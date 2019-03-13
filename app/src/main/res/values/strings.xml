@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tema1Final</string>
+    <string name="replace_success">Yay, it works! Welcome to A2F3</string>
+    <string name="button1">Click for magic</string>
+    <string name="hello2">Look at that, it\'s A2</string>
+    <string name="add_stuff">Add the fragments!</string>
+    <string name="replace">Replace A2F2 with A2F3</string>
+    <string name="remove">Remove A2F1</string>
+    <string name="close">Close Activity</string>
+</resources>
